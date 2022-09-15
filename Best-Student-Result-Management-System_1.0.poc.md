@@ -19,3 +19,5 @@ GET
 ```
 
 ## Proof and Exploit:
+code![image](https://github.com/toyydsBT123/One_of_my_take_on_SourceCodester/blob/main/1.png)
+Firefox browser ![image](https://github.com/toyydsBT123/One_of_my_take_on_SourceCodester/blob/main/2.png)
