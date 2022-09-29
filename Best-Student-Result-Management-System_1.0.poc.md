@@ -1,5 +1,7 @@
 #### Title: Best Student Result Management System 1.0 SQLi
 #### Author: toyydsBT123
+#### organize: Arr3stY0u
+#### Organization introduction : https://www.shg-sec.com/
 #### Date: 15.09.2022
 #### Vendor: https://www.sourcecodester.com/users/mayurik
 #### Software: https://www.sourcecodester.com/php/15653/best-student-result-management-system-project-source-code-php-and-mysql-free-download
